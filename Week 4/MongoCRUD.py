@@ -9,7 +9,7 @@ class AnimalShelter(object):
         USER = 'aacuser'
         PASS = 'pickle123'
         HOST = 'nv-desktop-services.apporto.com'
-        PORT = 31580
+        PORT = 30876
         DB = 'aac'
         COL = 'animals'
         # Initialize Connection
