@@ -1,0 +1,24 @@
+from animal_shelter import AnimalShelter
+
+# Create an instance of the AnimalShelter class
+shelter = AnimalShelter()
+
+# Test data for the 'create' method
+test_data = {
+    "name": "Buddy",
+    "animal_type": "Dog",
+    "age": 5,
+    "breed": "Labrador",
+    "color": "Yellow"
+}
+
+# Test the 'create' method
+print("Creating a document:")
+create_result = shelter.create(test_data)
+print(f"Document created: {create_result}")
+
+# Test the 'read' method
+print("\nReading documents:")
+read_result = shelter.read({"animal_type": "Dog"})
+for doc in read_result:
+    print(doc)
