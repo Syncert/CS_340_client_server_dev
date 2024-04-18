@@ -18,14 +18,14 @@ We were required to create a separate user account with read write access to onl
 
 
 I uploaded the dataset using the mongoimport tool. This demonstrates the ability to upload a .csv dataset into a mongoDB instance.
-![Import Command Screenshot](Resources/1_1_mongoimport.png)
+![Import Command Screenshot](Project%20Two/Resources/1_1_mongoimport.png)
 
 I created a user account that only has read/write access to the database of concern. This enforces secure development practices.
-![Import Command Screenshot](Resources/2_1_user_account_creation.png)
+![Import Command Screenshot](Project%20Two/Resources/2_1_user_account_creation.png)
 
 I created a Module in Python that accesses the MongoDB Animal Collection and successfully Creates/Reads/Updates/Deletes records in the MongoDB collection. 
-![Import Command Screenshot](Resources/3_1_MongoCRUD_Test.png)
-![Import Command Screenshot](Resources/3_2_MongoCRUD_Test.png)
+![Import Command Screenshot](Project%20Two/Resources/3_1_MongoCRUD_Test.png)
+![Import Command Screenshot](Project%20Two/Resources/3_2_MongoCRUD_Test.png)
 
 **Project Two**<br>
 *This project was focused on the frontend development of the web application*
@@ -36,13 +36,13 @@ https://github.com/Syncert/CS_340_client_server_dev/assets/54092419/a6f07c00-0b5
 
 
 Landing Page
-![Import Command Screenshot](Resources/screenshot_1.png)
+![Import Command Screenshot](Project%20Two/Resources/screenshot_1.png)
 Filtered to Water Rescue
-![Import Command Screenshot](Resources/screenshot_2.png)
+![Import Command Screenshot](Project%20Two/Resources/screenshot_2.png)
 Filtered to Mountain and Disaster Rescue
-![Import Command Screenshot](Resources/screenshot_3.png)
+![Import Command Screenshot](Project%20Two/Resources/screenshot_3.png)
 Filtered to 
-![Import Command Screenshot](Resources/screenshot_4.png)
+![Import Command Screenshot](Project%20Two/Resources/screenshot_4.png)
 
 **Getting Started**<br>
 *If you'd like to install and run a copy of this MongoDB CRUD Module, detailed instructions are present in the README_MongoCRUD.docx file*
