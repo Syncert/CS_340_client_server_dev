@@ -1,23 +1,21 @@
 **Takeaways from this class**<br>
 
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+*How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?*
 
 Programs that are maintanable, readable and adaptable are of paramount importance to allow collaboration and inheritability as development teams change hands. No program will be maintained by the same developers. With that in mind making things easy to catch on to is important. In this class developing the Module allowed for abstracting away the CRUD functionality and ensuring that developers of the dashboard could focus on the dashboard development and less on the nuts and bolts of interacting with the database. The documentation of how the python module was created, what the code was are all readily available if that needs to be tweaked. However, it is not directly interfering or easy to introduce bugs to in this implementation. 
 
 In the future I could use this module as a starting point for any python-based project that is interacting with a MongoDB.
 
-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+*How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?*
 
 As a Computer Scientist I approach problems by first gathering all requirements and having a thorough understanding of what clients need. My approach in this course is similar to what my approach has been in other courses, I do not jump into coding right away and make sure I understand clearly what my objectives are. It's very easy to get lost in rabbit holes with unclear objectives. In regards to database development to meet client requests, I've learned quite a bit about how to ensure secure interaction with databases from this course and am confident I can carry that abstraction and security into future projects.
 
 
-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+*What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?*
 
 Computer Scientists explore different applications of Programming Languages to meet dynamic and ever evolving needs of Society. We serve as a catalyst to better utilize data and computers to fulfill goals and objectives. We can greatly aid organizations and individuals to more productively handle data and enable data-informed decision making and insights. In this classes scenario , we were able to enable Grazioso Salvare to better find Rescue Dogs to train and influence the lives of 1000s in need by leveraging data analytics and a web-based dashboard.
 
-
-
-
+<br><br><br><br>
 
 **Scenario**<br>
 You work for Global Rain, a software engineering company that specializes in custom software design and development. Your team has been assigned to work on a project for an innovative international rescue-animal training company, Grazioso Salvare. You have been made the lead developer on this project.
