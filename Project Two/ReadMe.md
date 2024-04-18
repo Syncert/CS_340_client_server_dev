@@ -31,10 +31,9 @@ I created a Module in Python that accesses the MongoDB Animal Collection and suc
 *This project was focused on the frontend development of the web application*
 We were required to create an interactive dashboard for the stakeholders that allowed for navigation of the Shelter Data and Geolocation features on a map widget. Additionally we were to provide a secondary graphic that gives an insight to the distribution of breeds filtered. There were 3 different Rescue Functions, Water, Mountain Rescue and Disaster Rescue. Each of these different Rescue Types had different Breed , Sex and Age Requirements to be adopted into the program.
 
-<video width="320" height="240" controls>
-  <source src="Resources/Project_Two_Functionality_Recording.mkv" type="video/x-matroska">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/Syncert/CS_340_client_server_dev/assets/54092419/a6f07c00-0b58-41a0-9b30-d1c2d053d71c
+
 
 Landing Page
 ![Import Command Screenshot](Resources/screenshot_1.png)
