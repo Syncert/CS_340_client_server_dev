@@ -1,4 +1,4 @@
-**Scenario**
+**Scenario**<br>
 You work for Global Rain, a software engineering company that specializes in custom software design and development. Your team has been assigned to work on a project for an innovative international rescue-animal training company, Grazioso Salvare. You have been made the lead developer on this project.
 
 Grazioso Salvare identifies dogs that are good candidates for search-and-rescue training. When trained, these dogs can find and help to rescue humans or other animals, often in life-threatening conditions. To help identify dogs for training, Grazioso Salvare has reached an agreement with a nonprofit agency that operates five animal shelters in the region around Austin, Texas. This nonprofit agency will provide Grazioso Salvare with data from their shelters.
@@ -12,7 +12,7 @@ Grazioso Salvare has also requested that the code for this project be open sourc
 In Project One, you will complete the first phase of this development by creating a database in MongoDB that can interact with client-side code. You will also create an initial README file to accompany your code. In Project Two, later in this course, you will complete the second phase of development by updating the database, producing the dashboard, and updating the README file to explain the full stack development.
 
 
-**Project One**
+**Project One**<br>
 *This Project was focused on the backend development of the web application*
 We were required to create a separate user account with read write access to only the database of concern. Additionally, we were to create a module that has CRUD functionality utilizing this new user account. This allows read/write access to only the data related to the project.
 
@@ -27,7 +27,7 @@ I created a Module in Python that accesses the MongoDB Animal Collection and suc
 ![Import Command Screenshot](Resources/3_1_MongoCRUD_Test.png)
 ![Import Command Screenshot](Resources/3_2_MongoCRUD_Test.png)
 
-**Project Two**
+**Project Two**<br>
 *This project was focused on the frontend development of the web application*
 We were required to create an interactive dashboard for the stakeholders that allowed for navigation of the Shelter Data and Geolocation features on a map widget. Additionally we were to provide a secondary graphic that gives an insight to the distribution of breeds filtered. There were 3 different Rescue Functions, Water, Mountain Rescue and Disaster Rescue. Each of these different Rescue Types had different Breed , Sex and Age Requirements to be adopted into the program.
 
@@ -45,6 +45,6 @@ Filtered to Mountain and Disaster Rescue
 Filtered to 
 ![Import Command Screenshot](Resources/screenshot_4.png)
 
-**Getting Started**
+**Getting Started**<br>
 *If you'd like to install and run a copy of this MongoDB CRUD Module, detailed instructions are present in the README_MongoCRUD.docx file*
 
